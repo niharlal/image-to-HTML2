@@ -1,0 +1,224 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.left{
+    float: left;
+    
+}
+.right{
+    float: right;
+}
+.clearfix {
+    clear: both;
+}
+.header {
+    background-color: white;
+    min-height: 100px;
+}
+
+.container {
+    width: 85%;
+    margin: 0px auto;
+}
+
+.logo {
+}
+
+.social_icon {
+    margin-top: 20px;
+     
+}
+.donate_btn{
+    background-color: #0F4A8D;
+    border: none;
+    min-height: 30px;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    border-radius: 5px;
+      
+    
+}
+.involved_btn{
+    background-color: #680003;
+    border: none;
+    min-height: 30px;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    border-radius: 5px;
+      
+    
+}
+
+.social_style {
+       margin: 5px;
+}
+.social_style i{
+    margin-top: 10px;
+    padding-left: 10px;
+}
+
+.fa.fa-facebook {
+    color: blue;
+}
+
+.fa.fa-twitter {
+    color: blue;
+}
+
+.fa.fa-linkedin {
+    color: blue;
+}
+
+.navigation {
+    min-height: 50px;
+    background: #1B9CDD;
+}
+
+.navbar {
+}
+.navbar ul {
+    list-style: none;
+}
+.navbar ul li {
+    float: left;
+
+}
+.navbar ul li a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 14px 24px;
+}
+.navbar ul li a:hover {
+    background-color: darkblue;
+    color: red;
+}
+
+.slider {
+    background-color: #000000;
+    min-height: 375px;
+    color: white;
+}
+
+.slider_left {
+    width: 50%;
+}
+
+.form_wrapper {
+    width: 65%;
+    margin: 70px auto;
+    text-align: center;
+}
+.form_wrapper h3{
+    font-size: 30px;
+    font-weight: normal;
+}
+.form_wrapper p{
+    font-size: 18px;
+    padding: 10px;
+}
+.email_field {
+    text-align: center;
+    padding: 5px;
+    width: 50%;
+    border: none;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+.sign_up_btn {
+     background-color: #081C39;
+    border: none;
+    width: 55%;
+    color: white;
+    padding: 7px;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+.form-group {
+
+}
+
+.form-title {
+    padding-bottom: 7px;
+}
+
+.rattings {
+}
+.rattings i {
+    color: #5F5E5B;
+    margin-top: 10px;
+}
+
+.fa.fa-star {
+}
+
+.donate_now {
+}
+
+.donate_now a button {
+        background-color: #1E9CDD;
+    border: none;
+    width: 55%;
+    color: white;
+    padding: 7px;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+.slider_righr {
+    width: 50%;
+}
+
+.testimonial {
+    min-height: 50px;
+    
+}
+
+.testimonial_content {
+}
+.testimonial_content p {
+    text-align: center;
+    margin-bottom: 10px
+}
+
+.features {
+    min-height: 200px;
+}
+
+.signle_features {
+    margin: 60px;
+}
+
+.footer {
+}
+
+.footer_top {
+        min-height: 200px;
+    background-color: #0B4B8D;
+}
+
+.footer_logo {
+        padding: 40px;
+}
+
+.footer_content {
+    padding: 15px;
+    margin-top: 24px;
+}
+
+.footer_bottom {
+    min-height: 100px;
+    background-color: #6A0205;
+}
+
+.copyright {
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
